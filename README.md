@@ -1,4 +1,5 @@
 **Overview**
+
 This GitHub repository contains the source code and documentation for a Password-Protected Circuit Breaker System. The system is designed to enhance safety during electric line repairs by restricting access to authorized personnel only. Unlike traditional circuit breakers, this system requires a password for operation, minimizing the risk of fatal electrical accidents caused by unauthorized individuals.
 
 **Features**
@@ -8,6 +9,7 @@ This GitHub repository contains the source code and documentation for a Password
 4) Enhanced Safety during Repairs: The system addresses the increasing electrical accidents during electric line repairs by incorporating secure password authentication.
 
 **Usage**
+
 1) Power on the circuit breaker system.
 2) Enter the current password using the provided input method.
 3) If authorized, you can operate the circuit breaker. In case of a fault, the system will automatically interrupt the current flow.
